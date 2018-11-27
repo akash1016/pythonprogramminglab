@@ -1,3 +1,7 @@
+#name=akash more 
+#roll mo=41 gr no=11810832
+#div=M batch=M2
+
 n=input("enter a number:")
 a=0
 b=1
