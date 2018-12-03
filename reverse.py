@@ -1,3 +1,6 @@
+
+
+
 a=str(input())
 def revere(a):
     str1=""
