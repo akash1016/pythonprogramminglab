@@ -1,5 +1,6 @@
-
-
+#name=akash santosh more
+#roll number=41 div=m
+#Gr number=11810832
 
 a=str(input())
 def revere(a):
