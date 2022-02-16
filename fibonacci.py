@@ -1,5 +1,5 @@
 #name=akash more 
-#roll mo=41 gr no=11810832
+#roll no=41 gr no=11810832
 #div=M batch=M2
 
 n=int(input("enter a number:"))
